@@ -3,6 +3,7 @@
 Unce upon a time,  
 Was there a **beautiful** *princess* like this one below?
 
+```
                  __
                 /__`.
                / \ `\\
@@ -32,5 +33,5 @@ Was there a **beautiful** *princess* like this one below?
  |                             |
   `-----......_____......-----'
 
- 
+```
 Credit: <http://www.geocities.ws/SoHo/7373/mythical.html#princess>
