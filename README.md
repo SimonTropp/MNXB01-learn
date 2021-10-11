@@ -1,7 +1,7 @@
 # MNXB01-learn
 
-Unce upon a time,  
-Was there a **beautiful** *princess* like this one below?
+Once upon a time,  
+There was a **beautiful** *princess* like this one below!
 
 ```
                  __
